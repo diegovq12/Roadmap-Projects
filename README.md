@@ -8,5 +8,5 @@ https://roadmap.sh/projects/single-page-cv
 https://roadmap.sh/projects/basic-html-website
 
 # Backend 
-- [X] Number Guessing Game
+- [x] Number Guessing Game
 https://roadmap.sh/projects/number-guessing-game 
