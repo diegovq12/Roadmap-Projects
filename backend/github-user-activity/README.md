@@ -2,8 +2,8 @@
 ## By Diego Quiros
 
 Project from <b>Roadmap Sh<b>
-https://roadmap.sh/projects/github-user-activity
 
+https://roadmap.sh/projects/github-user-activity
 
 Made with
 
