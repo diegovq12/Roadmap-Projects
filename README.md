@@ -10,3 +10,6 @@ https://roadmap.sh/projects/basic-html-website
 # Backend 
 - [x] Number Guessing Game
 https://roadmap.sh/projects/number-guessing-game 
+
+- [x] GitHub User Activity
+https://roadmap.sh/projects/github-user-activity
