@@ -1,6 +1,12 @@
 # GitHub User Activity 
 ## By Diego Quiros
 
+Project from <b>Roadmap Sh<b>
+https://roadmap.sh/projects/github-user-activity
+
+
+Made with
+
 ![static](https://img.shields.io/badge/TypeScript-blue)
 ![static](https://img.shields.io/badge/Node-green)
 
@@ -19,7 +25,6 @@ npm install
 ```
 
 ### Usage
-
 To fetch and display GitHub user activity, use the following command:
 ```bash
 npm run github-activity <username>
