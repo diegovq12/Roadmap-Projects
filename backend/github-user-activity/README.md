@@ -3,7 +3,7 @@
 
 Project from <b>Roadmap Sh<b>
 
-https://roadmap.sh/projects/github-user-activity
+[GitHub User Activity Project](https://roadmap.sh/projects/github-user-activity)
 
 Made with
 
