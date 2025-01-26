@@ -1,10 +1,10 @@
 # Roadmap Projects
 
 # Frontend
-- [ ] Single-page cv
+- [x] Single-page cv
 https://roadmap.sh/projects/single-page-cv
 
-- [ ] Basic HTML Website
+- [x] Basic HTML Website
 https://roadmap.sh/projects/basic-html-website
 
 # Backend 
